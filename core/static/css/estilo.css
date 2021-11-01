@@ -1,0 +1,48 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    color: #ffffff;
+    background-color: rgb(123, 0, 238);
+    margin: auto;
+    text-align: center;
+    display: flex;
+}
+main{
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+
+}
+table{
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 5px;
+}
+button{
+    height: 50px;
+    width: 200px;
+    border: none;
+    font-size: 16pt;
+}
+#logar{
+    color: white;
+    background-color: rgb(66, 30, 99);
+}
+#comecar{
+    color: rgb(66, 30, 99);
+    background-color: white;
+}
+#logar:hover{
+    
+    color: rgb(125, 59, 187);
+    background-color:rgb(194, 194, 194);
+}
+#comecar:hover{
+    color: rgb(194, 194, 194);
+    background-color: rgb(125, 59, 187);
+}
